@@ -1,10 +1,10 @@
 {
- "name": "CalculatorApp",
- "short_name": "Raj`s",
- "start_url": ".",
+ "name": "Raj`s",
+ "short_name": "CalculatorApp",
+ "start_url": "index.html",
  "display": "standalone",
  "orientation": "portrait",
- "background_color": "#ccc",
+ "background_color": "#00f",
  "theme_color": "#5FAAE5",
 
  "icons": [
